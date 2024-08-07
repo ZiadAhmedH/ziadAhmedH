@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ziad Ahmed Helmy</h1>
 <h3 align="center">A passionate Mobile developer and passionate about Learning new techs technologies</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ziadahmedh&label=Profile%20views&color=0e75b6&style=flat" alt="ziadahmedh" /> </p>
-
 <img align="right" height="150" src="https://www.icegif.com/wp-content/uploads/2024/04/berserk-icegif-9.gif"  />
 
 - 🌱 I’m currently learning **Flutter**
