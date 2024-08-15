@@ -4,8 +4,8 @@
 <img align="right" height="150" src="https://www.icegif.com/wp-content/uploads/2024/04/berserk-icegif-9.gif"  />
 
 - 🌱 I’m currently learning **Flutter**
-- 
-- *   I'm Interested in Networking
+  
+- I'm Interested in Networking
   
 - 💬 Ask me about **java , dart , OOP**
 
