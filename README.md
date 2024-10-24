@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ziad Ahmed Helmy</h1>
 <h3 align="center">A passionate Mobile developer and passionate about Learning new techs technologies</h3>
 
-<img align="right" height="150" src="https://www.icegif.com/wp-content/uploads/2024/04/berserk-icegif-9.gif"  />
+<img align="right" height="250" src="https://www.icegif.com/wp-content/uploads/2024/04/berserk-icegif-8.gif"  />
 
 - 🌱 I’m currently learning **Flutter**
   
