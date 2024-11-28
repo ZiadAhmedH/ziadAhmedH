@@ -3,7 +3,6 @@
 </div>
 
 <h1 align="center">👋 Hi, I'm <span style="color:#00BFFF;">Ziad Ahmed Helmy</span></h1> <h3 align="center">A Passionate Mobile Developer | Lifelong Learner 🚀</h3> <div align="center"> 
-![berserk-guts](https://github.com/user-attachments/assets/f845037d-4cbf-4d16-b1e9-96a8e81f8c0a)
 
 
 <div align="center">
