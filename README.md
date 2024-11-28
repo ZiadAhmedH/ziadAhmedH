@@ -1,34 +1,42 @@
-<h1 align="center">Hi 👋, I'm Ziad Ahmed Helmy</h1>
-<h3 align="center">A passionate Mobile developer and passionate about Learning new techs technologies</h3>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=System.out.println(%22Welcome%22);Flutter+%7C+Java+%7C+Dart+💻;Debugging+is+an+*****+%F0%9F%A7%A8;Building+Dreams+with+Code!+🚀" alt="Typing SVG" />
+</div>
 
-<img align="right" height="250" src="https://i.imgur.com/oZYTigt.png"  />
-
-- 🌱 I’m currently learning **Flutter**
-  
-- I'm Interested in Networking
-  
-- 💬 Ask me about **java , dart , OOP**
-
-- 📫 How to reach me **z2gamer500@gmail.com**
-
-- ⚡ Fun fact **No Risk No Pain**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/ziad-ahmed-helmy-b97aaa2b5?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ziad-ahmed-helmy-b97aaa2b5?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+<h1 align="center">👋 Hi, I'm <span style="color:#00BFFF;">Ziad Ahmed Helmy</span></h1> <h3 align="center">A Passionate Mobile Developer | Lifelong Learner 🚀</h3> <div align="center"> <img src="https://i.imgur.com/oZYTigt.png" alt="Ziad Ahmed Helmy" width="300" /> </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ZiadAhmedH&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&cache_seconds=86400" height="148" alt="stats graph" /> <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ZiadAhmedH&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=dark&hide_border=true&cache_seconds=86400" height="130" alt="languages graph" /> <br>
-  <img src="https://streak-stats.demolab.com?user=ZiadAhmedH&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&cache_seconds=86400" height="150" alt="streak graph" />
+  <h2>🌟 About Me</h2>
+  <p>🌱 <strong>Currently Exploring:</strong><br>
+     Diving deep into <strong>Flutter</strong> and building innovative mobile solutions.</p>
+  <p>🎯 <strong>Interests:</strong><br>
+     Passionate about <strong>Networking</strong>, <strong>Creative Problem-Solving</strong>, and keeping up with <strong>Emerging Technologies</strong>.</p>
+  <p>💬 <strong>Ask Me About:</strong><br>
+     Everything from <strong>Java</strong>, <strong>Dart</strong>, and <strong>Object-Oriented Programming (OOP)</strong> concepts to tips for coding better apps!</p>
+  <p>📫 <strong>Reach Me At:</strong><br>
+     Feel free to drop an email at <a href="mailto:ziadahmedhelmy90@gmail.com"><strong>z2gamer500@gmail.com</strong></a>—let's connect!</p>
+  <p>⚡ <strong>Fun Fact:</strong><br>
+     <em>"No Risk, No Pain"</em>—I believe challenges fuel innovation!</p>
 </div>
 
 
 
 
+<p align="center"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" height="50"/> 
+  <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="Dart" width="50" height="50"/> 
+  <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="50" height="50"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="50" height="50"/> 
+  <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="Kotlin" width="50" height="50"/> 
+  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="50" height="50"/> 
+  <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="50" height="50"/> 
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="50" height="50"/> 
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="50" height="50"/> 
+</p>
+
+<p align="center"> <a href="https://www.linkedin.com/in/ziad-ahmed-helmy-b97aaa2b5?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"> </a> </p>
+
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ZiadAhmedH&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" height="180"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZiadAhmedH&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="180"/> </div>
+
+<div align="center"> <img src="https://streak-stats.demolab.com?user=ZiadAhmedH&theme=radical&hide_border=true" alt="GitHub Streak" height="180"/> </div>
 
 
