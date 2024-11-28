@@ -2,7 +2,9 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=System.out.println(%22Welcome%22);Flutter+%7C+Java+%7C+Dart+💻;Debugging+is+an+*****+%F0%9F%A7%A8;Building+Dreams+with+Code!+🚀" alt="Typing SVG" />
 </div>
 
-<h1 align="center">👋 Hi, I'm <span style="color:#00BFFF;">Ziad Ahmed Helmy</span></h1> <h3 align="center">A Passionate Mobile Developer | Lifelong Learner 🚀</h3> <div align="center"> <img src="https://i.imgur.com/oZYTigt.png" alt="Ziad Ahmed Helmy" width="300" /> </div>
+<h1 align="center">👋 Hi, I'm <span style="color:#00BFFF;">Ziad Ahmed Helmy</span></h1> <h3 align="center">A Passionate Mobile Developer | Lifelong Learner 🚀</h3> <div align="center"> 
+![berserk-guts](https://github.com/user-attachments/assets/f845037d-4cbf-4d16-b1e9-96a8e81f8c0a)
+
 
 <div align="center">
   <h2>🌟 About Me</h2>
