@@ -14,7 +14,7 @@
   <p>💬 <strong>Ask Me About:</strong><br>
      Everything from <strong>Java</strong>, <strong>Dart</strong>, and <strong>Object-Oriented Programming (OOP)</strong> concepts to tips for coding better apps!</p>
   <p>📫 <strong>Reach Me At:</strong><br>
-     Feel free to drop an email at <a href="mailto:ziadahmedhelmy90@gmail.com"><strong>z2gamer500@gmail.com</strong></a>—let's connect!</p>
+     Feel free to drop an email at <a href="mailto:ziadahmedhelmy90@gmail.com"><strong>ziadahmedhelmy90@gmail.com</strong></a>—let's connect!</p>
   <p>⚡ <strong>Fun Fact:</strong><br>
      <em>"No Risk, No Pain"</em>—I believe challenges fuel innovation!</p>
 </div>
