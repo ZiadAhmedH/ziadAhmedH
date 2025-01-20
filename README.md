@@ -8,7 +8,7 @@
 <div align="center">
   <h2>🌟 About Me</h2>
   <p>🌱 <strong>Currently Exploring:</strong><br>
-     Diving deep into <strong>Flutter</strong> and building innovative mobile solutions.</p>
+     Diving deep into <strong>Crafting Interpreter</strong> Book & <strong>Flutter</strong> and building innovative mobile solutions.</p>
   <p>🎯 <strong>Interests:</strong><br>
      Passionate about <strong>Networking</strong>, <strong>Creative Problem-Solving</strong>, and keeping up with <strong>Emerging Technologies</strong>.</p>
   <p>💬 <strong>Ask Me About:</strong><br>
